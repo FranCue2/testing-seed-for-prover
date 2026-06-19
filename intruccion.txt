@@ -1,0 +1,1 @@
+boogie /printModel:1 auction\:\:variso_ctx_Check\[MODIFIED\].bpl /inferModifies /printVerifiedProceduresCount:0 /printVerifiedProceduresCount:0 /proverOpt:O:model_validate=true /infer:j
